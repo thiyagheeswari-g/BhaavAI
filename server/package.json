@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "organize backend code, database collection,server scripts and API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiyagheeswari-g/BhaavAI.git"
+  },
+  "keywords": [
+    "mern",
+    "stack",
+    "react.js",
+    "node.js",
+    "API",
+    "AI"
+  ],
+  "author": "Thiyagheeswari G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiyagheeswari-g/BhaavAI/issues"
+  },
+  "homepage": "https://github.com/thiyagheeswari-g/BhaavAI#readme"
+}
